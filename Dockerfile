@@ -22,6 +22,8 @@ COPY app.py config.py ui.py /app/
 # Copy the application source code
 COPY . .
 
+COPY .env .env
+
 # Expose the Streamlit default port
 EXPOSE 8501
 

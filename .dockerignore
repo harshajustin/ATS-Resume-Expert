@@ -15,9 +15,6 @@ env/
 # Streamlit specific
 .streamlit/
 
-# Environment variable files
-.env
-
 # Docker build files
 .docker/
 
