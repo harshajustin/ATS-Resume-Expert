@@ -65,7 +65,7 @@ You can also run the application in a Docker container, which makes it easier to
 Build the Docker image using the `Dockerfile` in the root directory:
 
 ```bash
-docker build -t ats-resume-expert .
+docker build -t ats-resume-expert-container .
 ```
 
 ### 2. Run the Docker Container
@@ -73,7 +73,7 @@ docker build -t ats-resume-expert .
 Run the Docker container, mapping port `8501` for Streamlit:
 
 ```bash
-docker run -p 8501:8501 ats-resume-expert
+docker run -p 8501:8501 ats-resume-expert-container
 ```
 
 This will start the application inside a Docker container, and you can access it at [http://localhost:8501](http://localhost:8501).
