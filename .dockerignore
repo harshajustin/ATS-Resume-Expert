@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+# Environment variable files
+.env
+
+# Docker build files
+.docker/
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log

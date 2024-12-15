@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment variable files
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+# Docker related files
+.docker/
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
