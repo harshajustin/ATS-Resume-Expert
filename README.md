@@ -32,8 +32,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harshajustin/ats-resume-expert.git
-cd ats-resume-expert
+https://github.com/harshajustin/ATS-Resume-Expert.git
+cd ATS-Resume-Expert
 ```
 
 ### 2. Install Dependencies
