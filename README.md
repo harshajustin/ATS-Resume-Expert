@@ -11,6 +11,9 @@
 - **Cold Email Generation**: Generates professional cold emails to send to potential employers.
 - **Resume Preview**: Provides a preview of the resume’s first page for easy review.
 
+[Watch the video](https://www.linkedin.com/posts/harsha-vardhan-027413304_resumewriting-jobsearch-ai-activity-7275429042898587648-sjQe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEB8Te0BMkMgzs1xBYmT-I1uI87qQrQ5dvU)
+
+
 ## Table of Contents
 
 1. [Installation](#installation)
