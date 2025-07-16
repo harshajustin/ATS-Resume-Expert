@@ -1,32 +1,14 @@
-# Python cache files
+# Remove .env from dockerignore if you want to include it
+# .env
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environment directories
-venv/
-env/
-.venv/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# Streamlit specific
-.streamlit/
-
-# Docker build files
-.docker/
-
-# IDE settings (optional)
+.Python
+*.db
+*.sqlite3
+*.log
+node_modules/
+.DS_Store
 .vscode/
 .idea/
-
-# macOS system files
-.DS_Store
-
-# Windows system files
-Thumbs.db
-
-# Log files
-*.log

@@ -1,0 +1,13 @@
+services:
+  ats-resume-expert:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - key=AIzaSyCN9Da45zELa6tG53VOVlXH_zBXEz2d06o
+    # Alternative: load from .env file
+    # env_file:
+    #   - .env
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs  # Mount logs directory for persistence
