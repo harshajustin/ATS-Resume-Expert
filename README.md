@@ -11,7 +11,7 @@
 
 **A powerful AI-driven tool to optimize resumes for Applicant Tracking Systems (ATS) and enhance job application success rates.**
 
-[🎥 Watch Demo](https://www.linkedin.com/posts/harsha-vardhan-027413304_resumewriting-jobsearch-ai-activity-7275429042898587648-sjQe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEB8Te0BMkMgzs1xBYmT-I1uI87qQrQ5dvU) • [📚 Documentation](#documentation) • [🚀 Live Demo](https://resume.edubot.studio/)
+[🎥 Watch Demo](https://www.linkedin.com/posts/harsha-vardhan-027413304_resumewriting-jobsearch-ai-activity-7275429042898587648-sjQe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEB8Te0BMkMgzs1xBYmT-I1uI87qQrQ5dvU) • [📚 Documentation](#documentation) • [🚀 Live Demo](https://resume.edulearn.studio/)
 
 </div>
 
