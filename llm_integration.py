@@ -50,7 +50,7 @@ def get_gemini_response(input_text, pdf_content, prompt):
         api_key = api_key.strip('"').strip("'")
         genai.configure(api_key=api_key)
         
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.0-flash")
         response = model.generate_content([input_text, pdf_content[0], prompt])
         return response.text
     except Exception as e:
